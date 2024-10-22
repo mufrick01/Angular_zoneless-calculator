@@ -1,7 +1,14 @@
 # ZonelessCalculator
-### https://zoneless-calculator-mufrick01.netlify.app/calculator
+### ver en: 
+https://zoneless-calculator-mufrick01.netlify.app/#/calculator
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.5.
+
+
+
+
+
+
+
 
 ## Development server
 
